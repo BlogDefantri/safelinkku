@@ -26,7 +26,7 @@ if(x=="2"){xxx="things-to-do-on-island-on-vacation.html"}
 if(x=="3"){xxx="plus-natural-ways-to-prevent-cold-and.html"}
 if(x=="4"){xxx="the-main-functions-of-computer-memory.html"}
 if(x=="5"){xxx="why-should-you-book-tours-and-travel.html"}
-if(x=="6"){xxx="2008/10/type-2-diabetes-and-healthy-living-are.html"}a_to_ve[i].href="https://www.safelinkku.xyz/2008/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="6"){xxx="type-2-diabetes-and-healthy-living-are.html"}a_to_ve[i].href="https://www.safelinkku.xyz/2010/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
